@@ -1,0 +1,1 @@
+print("hi")\nprint("hello")
