@@ -1,1 +1,1 @@
-{"fruit": "Apple", "size": "Large", "color": "Red"}
+{"tables": [{"name": "DocumentBook", "query": "SELECT * FROM DocumentBook", "schemaname": null, "table_type": "SCD0", "primary_key": [], "partition_cols": [], "incremental_cols": [], "data_delay_in_src": 0, "table_extra_options": {}}], "datasource": {"name": "RE-officeLocal-pg", "sourceType": "POSTGRES", "processingMode": "BATCH"}}
